@@ -1,0 +1,60 @@
+
+.banner {
+ 
+    background: url("donate.png")
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: black;
+  
+  
+} 
+  
+  .lingkaran {
+    display: inline-block;
+    border-radius: 60%;
+    width: 180px;
+    margin: auto;
+    height: 180px;
+    color: #fff;
+    background-color: rgb(43, 117, 229);
+  }
+  
+  .lingkaran i {
+    position: relative;
+    top: 30px;
+  }
+  
+  .crop-img {
+    object-fit: cover;
+  }
+  
+  .tim img {
+    width: 250px;
+    border: 2px solid;
+  }
+  
+  a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: black;
+    
+    line-height: 40px;
+  }
+  
+  .client img {
+    height: auto;
+    max-height: 50px;
+  }
+  
+  .kontak {
+    background: url("https://wallpaperaccess.com/full/1867010.jpg") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+  }
+  
